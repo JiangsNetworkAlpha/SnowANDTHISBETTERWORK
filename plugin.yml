@@ -1,7 +1,7 @@
-name: SnowHalation
-main: ifteam\SnowHalation\SnowHalation
+name: Snow
+main: ifteam\Snow\snow
 version: 1.8-alpha
-author: hm
+author: JiangsNetworkAlpha
 api:
 - 1.13.0
 - 2.0.0
